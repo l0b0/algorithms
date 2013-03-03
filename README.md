@@ -1,0 +1,4 @@
+algorithms
+==========
+
+Personal exercises
