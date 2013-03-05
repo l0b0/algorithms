@@ -1,4 +1,4 @@
-objects = peak_1d_n_squared
+objects = peak_1d_n_squared peak_1d_log_n
 
 .PHONY: all
 all: $(objects)
